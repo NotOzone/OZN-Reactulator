@@ -2,7 +2,7 @@
 
 Ciao! 👋 Questo è un piccolo progetto che ho creato per fare pratica con React, cercando di replicare il look & feel della calcolatrice di iOS.
 
-![Screenshot della calcolatrice](./public/preview_OZN-Reactulator.png)
+![Screenshot della calcolatrice](https://raw.githubusercontent.com/NotOzone/OZN-Reactulator/main/public/preview_OZN-Reactulator.png)
 
 ## 🚀 Tecnologie utilizzate
 
@@ -16,7 +16,7 @@ Per avviare questo progetto sulla tua macchina, segui questi semplici passaggi:
 
 1.  **Clona la repository**
     ```sh
-    git clone https://github.com/tuo-username/OZN-Reactulator.git
+    git clone https://github.com/NotOzone/OZN-Reactulator.git
     ```
 2.  **Entra nella directory del progetto**
     ```sh
