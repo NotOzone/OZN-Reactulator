@@ -1,43 +1,70 @@
-# Getting Started with Create React App
+# OZN-Reactulator 🧮
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ciao! 👋 Questo è un piccolo progetto che ho creato per fare pratica con React, cercando di replicare il look & feel della calcolatrice di iOS.
 
-## Available Scripts
+![Screenshot della calcolatrice](./public/preview_OZN-Reactulator.png)
 
-In the project directory, you can run:
+## 🚀 Tecnologie utilizzate
+
+*   ⚛️ React
+*   뼈 HTML
+*   💅 CSS
+
+## 🛠️ Come iniziare
+
+Per avviare questo progetto sulla tua macchina, segui questi semplici passaggi:
+
+1.  **Clona la repository**
+    ```sh
+    git clone https://github.com/tuo-username/OZN-Reactulator.git
+    ```
+2.  **Entra nella directory del progetto**
+    ```sh
+    cd OZN-Reactulator
+    ```
+3.  **Installa le dipendenze**
+    ```sh
+    npm install
+    ```
+4.  **Avvia l'app!** 🚀
+    ```sh
+    npm start
+    ```
+
+Ora apri [http://localhost:3000](http://localhost:3000) nel tuo browser per vedere l'applicazione.
+
+## 📜 Script disponibili
+
+Nel direttorio del progetto, puoi eseguire:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Esegue l'app in modalità di sviluppo.\
+Apri [http://localhost:3000](http://localhost:3000) per vederla nel browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+La pagina si ricaricherà quando farai delle modifiche.\
+Potresti anche vedere eventuali errori di lint nella console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Lancia il test runner in modalità interattiva.\
+Vedi la sezione su [running tests](https://facebook.github.io/create-react-app/docs/running-tests) per maggiori informazioni.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Compila l'app per la produzione nella cartella `build`.\
+Raggruppa correttamente React in modalità di produzione e ottimizza la build per le migliori prestazioni.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+La build è minificata e i nomi dei file includono gli hash.\
+La tua app è pronta per essere distribuita!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Vedi la sezione sulla [deployment](https://facebook.github.io/create-react-app/docs/deployment) per maggiori informazioni.
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Nota: questa è un'operazione a senso unico. Una volta eseguito `eject`, non puoi tornare indietro!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Se non sei soddisfatto dello strumento di build e delle scelte di configurazione, puoi eseguire `eject` in qualsiasi momento. Questo comando rimuoverà la singola dipendenza di build dal tuo progetto.
 
 ## Learn More
 
